@@ -8,6 +8,7 @@ Select some parts or models, click a tool, done. Every tool can be undone with *
 | Tool | What it does |
 |---|---|
 | **Anchor All** | Anchors every part in the selection, including parts inside models. |
+| **Copy Look** | Copies color, material and transparency from the first selected part to the others. |
 | **Randomize Rotation** | Spins each selected part or model to a random angle. Great for trees and rocks. |
 
 More tools are on the way, and you can add one yourself. See [Contributing](#contributing).
